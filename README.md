@@ -1,4 +1,4 @@
-# producer-consumer
+# producer-consumer 
 
 A deadlock-free implementation of the [producer-consumer](https://en.wikipedia.org/wiki/Producer-consumer_problem) problem that uses semaphores.
 
@@ -13,3 +13,6 @@ A deadlock-free implementation of the [producer-consumer](https://en.wikipedia.o
 Usage
 -----
 
+```bash
+producerconsumer *num_producers* *num_consumers*
+```
