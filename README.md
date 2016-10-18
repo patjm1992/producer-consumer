@@ -14,4 +14,4 @@ Usage
 -----
 
 
-`$ producerconsumer *num_producers* *num_consumers*`
+$ producerconsumer *num_producers* *num_consumers*
