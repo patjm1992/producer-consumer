@@ -13,6 +13,5 @@ A deadlock-free implementation of the [producer-consumer](https://en.wikipedia.o
 Usage
 -----
 
-```
-$ producerconsumer *num_producers* *num_consumers*
-```
+
+`$ producerconsumer *num_producers* *num_consumers*`
